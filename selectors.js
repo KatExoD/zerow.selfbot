@@ -1,0 +1,1 @@
+window.selectors={body:"body",ThemeButton:"#navbarSupportedContent > ul > li:nth-child(7) > a"}
